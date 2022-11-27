@@ -8,6 +8,8 @@ willduguid\@hotmail.com
 
 Submitted to *Fisheries Research*, November 2022
 
+Archived on Mendeley Data: DOI: 10.17632/5v82v2v3vv.1
+
 **Description of files**
 
 Scripts: R code used for analysis and production of figures and tables
