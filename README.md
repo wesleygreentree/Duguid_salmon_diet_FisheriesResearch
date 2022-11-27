@@ -8,7 +8,7 @@ willduguid\@hotmail.com
 
 Submitted to *Fisheries Research*, November 2022
 
-Archived on Mendeley Data: DOI: 10.17632/5v82v2v3vv.1
+Archived on Mendeley Data: <http://dx.doi.org/10.17632/5v82v2v3vv.1>
 
 **Description of files**
 
